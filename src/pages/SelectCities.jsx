@@ -2,13 +2,13 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { saveSelectedCities, clearAll } from '../store/voteStore';
 
-import tangerImg from '../assets/cities/tanger.jpg';
-import taroudantImg from '../assets/cities/taroudant.jpg';
-import taounatImg from '../assets/cities/taounat.jpg';
-import casablancaImg from '../assets/cities/casablanca.jpg';
-import dakhlaImg from '../assets/cities/dakhla.jpg';
-import fesImg from '../assets/cities/fes.jpg';
-import allemagnImg from '../assets/cities/allemagne.jpg';
+import tangerImg from '../assets/cities/Tanger.jpg';
+import taroudantImg from '../assets/cities/Taroudant.jpg';
+import taounatImg from '../assets/cities/Taounat.jpg';
+import casablancaImg from '../assets/cities/Casablanca.jpg';
+import dakhlaImg from '../assets/cities/Dakhla.jpg';
+import fesImg from '../assets/cities/Fes.jpg';
+import allemagnImg from '../assets/cities/Allemagne.jpg';
 
 const ALL_CITIES = [
   { id: 1, name: 'Tanger', image: tangerImg },
