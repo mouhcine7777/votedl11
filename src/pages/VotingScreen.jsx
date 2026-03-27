@@ -4,13 +4,13 @@ import { getSelectedCities, getVotes, saveVotes } from '../store/voteStore';
 
 import buttonImg from '../assets/button.png';
 
-import tangerImg from '../assets/cities/tanger.jpg';
-import taroudantImg from '../assets/cities/taroudant.jpg';
-import taounatImg from '../assets/cities/taounat.jpg';
-import casablancaImg from '../assets/cities/casablanca.jpg';
-import dakhlaImg from '../assets/cities/dakhla.jpg';
-import fesImg from '../assets/cities/fes.jpg';
-import allemagnImg from '../assets/cities/allemagne.jpg';
+import tangerImg from '../assets/cities/Tanger.jpg';
+import taroudantImg from '../assets/cities/Taroudant.jpg';
+import taounatImg from '../assets/cities/Taounat.jpg';
+import casablancaImg from '../assets/cities/Casablanca.jpg';
+import dakhlaImg from '../assets/cities/Dakhla.jpg';
+import fesImg from '../assets/cities/Fes.jpg';
+import allemagnImg from '../assets/cities/Allemagne.jpg';
 
 import score0 from '../assets/scores/0.png';
 import score1 from '../assets/scores/1.png';
